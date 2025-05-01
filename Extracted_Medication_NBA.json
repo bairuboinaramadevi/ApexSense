@@ -1,0 +1,60 @@
+{
+    "prescription_john_doe.pdf": {
+      "prescribed_medicines": [
+        {
+          "name": "Lisinopril",
+          "dosage": "10 mg",
+          "frequency": "once daily",
+          "administration": "by mouth",
+          "timing": "before breakfast"
+        },
+        {
+          "name": "Aspirin",
+          "dosage": "81 mg",
+          "frequency": "once daily",
+          "administration": "by mouth",
+          "timing": "with dinner"
+        }
+      ],
+      "next_actions": {
+        "next_appointment": {
+          "date": "2025-06-20",
+          "time": "10:00 AM",
+          "description": "with Dr. Smith"
+        }
+      },
+      "suggested_activity": null
+    },
+    "prescription_jane_doe.jpg": {
+      "prescribed_medicines": [
+        {
+          "name": "Amoxicillin",
+          "dosage": "250 mg",
+          "frequency": "three times a day",
+          "administration": "by mouth",
+          "timing": "after meals"
+        }
+      ],
+      "next_actions": {
+        "next_appointment": null,
+        "other_instructions": "Continue physiotherapy twice a week."
+      },
+      "suggested_activity": null
+    },
+    "prescription_peter_pan.txt": {
+      "prescribed_medicines": [
+        {
+          "name": "Paracetamol",
+          "dosage": "500 mg",
+          "frequency": "as needed",
+          "administration": "by mouth",
+          "timing": "after pain"
+        }
+      ],
+      "next_actions": {
+        "next_appointment": null
+      },
+      "suggested_activity": null
+    }
+  }
+  
